@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ramim Ahmed</h1>
+<h1 align="center">As-salamu alaykum, I'm Ramim Ahmed</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramim141&label=Profile%20views&color=0e75b6&style=flat" alt="ramim141" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramim141" alt="ramim141" /></a> </p>
 
 - 🌱 I’m currently learning **C programming,Data Structure, HTML, CSS**
 
