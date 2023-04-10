@@ -1,6 +1,6 @@
 <h1 align="center">𝓐𝓼𝓼𝓪𝓵𝓪𝓶𝓾𝓪𝓵𝓪𝓲𝓴𝓾𝓶</h1>
 
-- 🌱 I’m currently learning **C programming,Data Structure, HTML, CSS**
+- 🌱 currently learning **C programming,Data Structure, HTML, CSS**
 
 - 📫 How to reach me **ahramu584@gmail.com**
 
