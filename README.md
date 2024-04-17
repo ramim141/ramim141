@@ -113,7 +113,11 @@
 
 ----
 
+</details>
 
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
 
 
 
