@@ -70,8 +70,6 @@
 </a>
 <br/>
 <a href="https://github.com/ramim141/my_cf">
-<!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" /> -->
-<!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/rating.svg" /> -->
 </a>
 
 
