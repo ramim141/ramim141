@@ -100,7 +100,6 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----	
-
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ramim141&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
@@ -110,14 +109,20 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-
 ----
+	
 
 </details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramim141&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+
+[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+	
+</details>
 
 
 
