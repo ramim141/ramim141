@@ -13,6 +13,16 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Competitive+Programmer;Software+Engineer;Specialist+at+Codeforces;%E2%AD%90%E2%AD%90%E2%AD%90+at+Codechef" alt="Typing SVG" /></a>
 </div>
 
+<br><br>
+- 🥅 2024 :Goals: Start Software Developemt journey, Be `Specialist` at Codeforces and `3`⭐ at codechef.
+- 🥅 2024 :Goals: (ins sha allah) Solve `1000+` problems Codeforces. 
+  🥅 2025 :Goals: (ins sha allah) To become a `Software Engineer` and get a `job` .
+
+<be>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/ramim141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ramim141" height="30" width="40" /></a>
