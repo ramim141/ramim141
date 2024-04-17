@@ -25,7 +25,7 @@
 
 <br><br><br><br>
 <div style="font-size: 40px;">
-  <p style="display: inline-block;">Connect with me:</p>
+  <h3 style="display: inline-block;">Connect with me:</h3>
     <a href="https://www.facebook.com/ramim141" target="blank" style="display: inline-block; margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ramim141" height="30" width="40" />
     </a>
