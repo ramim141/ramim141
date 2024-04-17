@@ -12,7 +12,7 @@
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Competitive+Programmer;Software+Engineer;Specialist+at+Codeforces;%E2%AD%90%E2%AD%90%E2%AD%90+at+Codechef" alt="Typing SVG" /></a>
 </div>
-
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <br><br>
 - 🥅 2024 :Goals: Start Software Developemt journey, Be `Specialist` at Codeforces and `3`⭐ at codechef.
 - 🥅 2024 :Goals: (ins sha allah) Solve `1000+` problems Codeforces. 
