@@ -60,7 +60,7 @@
     </a>
 </p>
 
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+👩‍💻 My Competitive Programming Profiles
 
 <!-- https://leetcard.jacoblin.cool/ --> 
 <img src="https://github.com/ramim141/my_cf/blob/main/output/max_rating.svg" />
