@@ -14,9 +14,9 @@
 </div>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <br><br>
-- 🥅 2024 :Goals: Start Software Developemt journey, Be `Specialist` at Codeforces and `3`⭐ at codechef.
-- 🥅 2024 :Goals: (ins sha allah) Solve `1000+` problems Codeforces. 
-- 🥅 2025 :Goals: (ins sha allah) To become a `Software Engineer` and get a `job` .
+- 🥅 2024 :Goals: Start Software Developemt journey, Be `Specialist` at Codeforces and `3`⭐ at codechef. <br>
+- 🥅 2024 :Goals: (ins sha allah) Solve `1000+` problems Codeforces. <br>
+- 🥅 2025 :Goals: (ins sha allah) To become a `Software Engineer` and get a `job` . <br>
 
 <be>
 
