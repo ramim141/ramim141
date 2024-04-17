@@ -60,7 +60,7 @@
     </a>
 </p>
 
-👩‍💻 My Competitive Programming Profiles
+<h3>👩‍💻 My Competitive Programming Profiles</h3>
 
 <!-- https://leetcard.jacoblin.cool/ --> 
 <img src="https://github.com/ramim141/my_cf/blob/main/output/max_rating.svg" />
