@@ -60,6 +60,22 @@
     </a>
 </p>
 
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+
+<!-- https://leetcard.jacoblin.cool/ --> 
+<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" />
+<a href="https://github.com/Md-Merazul-Islam/meraz_cf">
+<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />-->
+<!--<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg" /> -->
+</a>
+<br/>
+<a href="https://github.com/Md-Merazul-Islam/meraz_cf">
+<!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/max_rating.svg" /> -->
+<!-- <img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/rating.svg" /> -->
+</a>
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramim141&show_icons=true&locale=en&layout=compact" alt="ramim141" /></p>
 </br></br></br></br></br></br></br>
 
