@@ -99,7 +99,7 @@
 
 
 	
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<h3>💻 GitHub Profile Stats</h3>
 
 ----	
 <p align="center">
