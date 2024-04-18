@@ -63,19 +63,24 @@
 <h3>👩‍💻 My Competitive Programming Profiles</h3>
 
 <!-- https://leetcard.jacoblin.cool/ --> 
-<img src="https://github.com/ramim141/my_cf/blob/main/output/max_rating.svg" />
-<a href="https://github.com/ramim141/my_cf">
-<img src="https://github.com/ramim141/my_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />-->
-<!--<img src="https://github.com/Md-Merazul-Islam/meraz_cf/blob/main/output/light_card.svg" /> -->
-</a>
-<br/>
-<a href="https://github.com/ramim141/my_cf">
-</a>
+<div style="height: 300px;">
+    <div><!-- https://leetcard.jacoblin.cool/ --> 
+        <img src="https://github.com/ramim141/my_cf/blob/main/output/max_rating.svg" />
+        <a href="https://github.com/ramim141/my_cf">
+            <img src="https://github.com/ramim141/my_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />
+        </a>
+    </div>
+    <br/>
+    <a href="https://github.com/ramim141/my_cf"></a>
+</div>
 
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/ahramu584?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/ahramu584/my_cf/main/output/light_card.svg" />
-</p>
+<div style="height: 300px;">
+    <p float="left">
+        <img height="273em" src="https://leetcard.jacoblin.cool/ahramu584?theme=light&font=Karma&ext=contest" />
+        <img height="280em" src="https://raw.githubusercontent.com/ahramu584/my_cf/main/output/light_card.svg" />
+    </p>
+</div>
+
 
 
 
