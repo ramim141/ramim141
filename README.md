@@ -7,20 +7,6 @@
 </div>
 
 
-
-<div>
-  <h2 align="center">
-    Welcome to Ramim Ahmed's profile!
-  </h2>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ramim141&label=Profile%20views&color=0e75b6&style=flat" alt="ramim141">
-  </p>
-  <p align="center">
-    I am a pupil in Codeforces and a 2* in Codechef.
-  </p>
-</div>
-
-
 <div align='center'>
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Competitive+Programmer;Software+Engineer;Specialist+at+Codeforces;%E2%AD%90%E2%AD%90%E2%AD%90+at+Codechef" alt="Typing SVG" /></a>
