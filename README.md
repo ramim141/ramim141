@@ -7,7 +7,19 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramim141&label=Profile%20views&color=0e75b6&style=flat" alt="ramim141" /> </p>
+
+<div>
+  <h2 align="center">
+    Welcome to Ramim Ahmed's profile!
+  </h2>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ramim141&label=Profile%20views&color=0e75b6&style=flat" alt="ramim141">
+  </p>
+  <p align="center">
+    I am a pupil in Codeforces and a 2* in Codechef.
+  </p>
+</div>
+
 
 <div align='center'>
 
