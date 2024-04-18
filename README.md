@@ -8,9 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramim141&label=Profile%20views&color=0e75b6&style=flat" alt="ramim141" /> </p>
 <div align='center'>
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Competitive+Programmer;Software+Engineer;Specialist+at+Codeforces;%E2%AD%90%E2%AD%90%E2%AD%90+at+Codechef" alt="Typing SVG" /></a>
+  <a href="NEW_TYPING_SVG_URL">
+    <img src="NEW_TYPING_SVG_URL" alt="Typing SVG" />
+  </a>
 </div>
+
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=25%>
 <br><br>
 - 🥅 2024 :Goals: Start Software Developemt journey, Be `Specialist` at Codeforces and `3`⭐ at codechef. <br>
