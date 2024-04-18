@@ -74,7 +74,7 @@
 
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/ahramu584?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/ahramu584/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/ahramu584/my_cf/main/output/light_card.svg" />
 </p>
 
 
