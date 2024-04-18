@@ -96,7 +96,7 @@
 	<br>
 	<p align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=html,css,bootstrap,cpp,java,python,mysql" />
+			<img src="https://skillicons.dev/icons?i=html,css,bootstrap,cpp,java,python,mysql,javascript" />
 			<!--   <img src="https://skillicons.dev/icons?i=html,css,babel,javascript,react,next,tailwind,bootstrap,materialui,nodejs,expressjs,mongodb,typescript,mysql,git,github,vite,jquery,firebase,postman,cpp,java,python,php,vscode,c,vercel,netlify,figma" /> -->
 		</a>
 	</p>
