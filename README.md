@@ -1,9 +1,9 @@
 <h3 align="center">𝓐𝓼𝓼𝓪𝓵𝓪𝓶𝓾𝓪𝓵𝓪𝓲𝓴𝓾𝓶</h3>
 
 <div>
-  <h2 align="center">
-    Welcome to Ramim Ahmed's profile! <img src="NEW_GIF_URL" width="28">
-  </h2>
+<h2 align="center">
+  Welcome to Ramim Ahmed's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 </div>
 
 
