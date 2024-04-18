@@ -81,7 +81,7 @@
 <div style="height: 300px;">
     <p float="left">
         <img height="273em" src="https://leetcard.jacoblin.cool/ahramu584?theme=dark&font=Karma&ext=contest" />
-        <img height="280em" src="https://raw.githubusercontent.com/ahramu584/my_cf/main/output/light_card.svg#gh-dark-mode-only" />
+        
     </p>
 </div>
 
