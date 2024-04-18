@@ -72,15 +72,10 @@
 <a href="https://github.com/ramim141/my_cf">
 </a>
 
-<a href="https://github.com/sudiptob2/codechef-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/codechef-stats/main/output/codechef_card.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/sudiptob2/codechef-stats/main/output/codechef_card.svg" />
-</a>
-<br/>
-<a href="https://github.com/sudiptob2/codechef-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/codechef-stats/main/output/codechef_max_rating.svg" />
-<img src="https://raw.githubusercontent.com/sudiptob2/codechef-stats/main/output/codechef_rating.svg" />
-</a>
+<p float="right">
+<img height="273em" src="https://leetcard.jacoblin.cool/ahramu584?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/ahramu584/cf-stats/main/output/light_card.svg" />
+</p>
 
 
 
