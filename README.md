@@ -72,6 +72,14 @@
 <a href="https://github.com/ramim141/my_cf">
 </a>
 
+<p align="center">
+    <img src="https://cp-logo.vercel.app/codechef/ahramu584" alt="CodeChef Profile" height="200px"/>
+    <br/>
+    <b>Username:</b> ahramu584
+    <br/>
+    <b>Rating:</b> ![CodeChef Rating](https://cp-logo.vercel.app/codechef/ahramu584)
+</p>
+
 
 
 
