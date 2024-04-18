@@ -59,14 +59,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
 </p>
-
 <h3>👩‍💻 My Competitive Programming Profiles</h3>
 
 <!-- https://leetcard.jacoblin.cool/ --> 
 <!-- https://leetcard.jacoblin.cool/ --> 
-<div>
 
-	<img src="https://github.com/ramim141/my_cf/blob/main/output/max_rating.svg" />
+
+
+<img src="https://github.com/ramim141/my_cf/blob/main/output/max_rating.svg" />
 <a href="https://github.com/ramim141/my_cf">
 <img src="https://github.com/ramim141/my_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />
 </a>
@@ -76,7 +76,7 @@
 
 
  
-</div>
+
 
 <div style="width: 50%;">
     <p float="left">
