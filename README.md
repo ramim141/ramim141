@@ -72,6 +72,16 @@
 <a href="https://github.com/ramim141/my_cf">
 </a>
 
+<a href="https://github.com/sudiptob2/codechef-stats">
+<img src="https://raw.githubusercontent.com/sudiptob2/codechef-stats/main/output/codechef_card.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/sudiptob2/codechef-stats/main/output/codechef_card.svg" />
+</a>
+<br/>
+<a href="https://github.com/sudiptob2/codechef-stats">
+<img src="https://raw.githubusercontent.com/sudiptob2/codechef-stats/main/output/codechef_max_rating.svg" />
+<img src="https://raw.githubusercontent.com/sudiptob2/codechef-stats/main/output/codechef_rating.svg" />
+</a>
+
 
 
 
