@@ -80,7 +80,7 @@
 
 <div style="width: 50%;">
     <p float="left">
-        <img height="160em" width="300em" src="https://leetcard.jacoblin.cool/ahramu584?theme=dark&font=Karma&ext=contest" />
+        <img height="160em" width="350em" src="https://leetcard.jacoblin.cool/ahramu584?theme=dark&font=Karma&ext=contest" />
         
  
 </div>
