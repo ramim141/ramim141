@@ -65,11 +65,18 @@
 <!-- https://leetcard.jacoblin.cool/ --> 
 
 ![](https://raw.githubusercontent.com/ramim141/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ramim141/cf-stats/main/output/light_card.svg)
+<!--![](https://raw.githubusercontent.com/ramim141/cf-stats/main/output/light_card.svg)-->
 
 
-
-
+<!--
+<img src="https://github.com/ramim141/my_cf/blob/main/output/max_rating.svg" />
+<a href="https://github.com/ramim141/my_cf">
+<img src="https://github.com/ramim141/my_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />
+</a>
+<br/>
+<a href="https://github.com/ramim141/my_cf">
+</a>
+-->
 
 
  
