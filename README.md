@@ -69,13 +69,7 @@
 
 
 
-<img src="https://github.com/ramim141/my_cf/blob/main/output/max_rating.svg" />
-<a href="https://github.com/ramim141/my_cf">
-<img src="https://github.com/ramim141/my_cf/blob/main/output/light_card.svg#gh-dark-mode-only" />
-</a>
-<br/>
-<a href="https://github.com/ramim141/my_cf">
-</a>
+
 
 
  
