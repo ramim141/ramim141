@@ -64,6 +64,9 @@
 <!-- https://leetcard.jacoblin.cool/ --> 
 <!-- https://leetcard.jacoblin.cool/ --> 
 
+![](https://raw.githubusercontent.com/ramim141/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ramim141/cf-stats/main/output/light_card.svg)
+
 
 
 <img src="https://github.com/ramim141/my_cf/blob/main/output/max_rating.svg" />
