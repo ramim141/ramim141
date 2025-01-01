@@ -61,10 +61,13 @@
 <!-- Profiles Table -->
 <div style="margin-top: 20px;">
     <table style="width: 100%; text-align: left; border-collapse: collapse; margin-top: 20px;">
-	    <tr>
-		    <!-- Codeforces Stats -->
-			<img src="https://raw.githubusercontent.com/ramim141/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" />
-	    </tr>
+	    <div>
+        <!-- Codeforces Stats -->
+        <img src="https://raw.githubusercontent.com/ramim141/cf-stats/main/output/light_card.svg#gh-dark-mode-only" 
+             alt="Codeforces Stats (Dark Mode)" />
+        <img src="https://raw.githubusercontent.com/ramim141/cf-stats/main/output/default_card.svg#gh-light-mode-only" 
+             alt="Codeforces Stats (Light Mode)" />
+    </div>
         <thead>
             <tr style="background-color: #222; color: white;">
                 <th style="padding: 10px;">Platform</th>
