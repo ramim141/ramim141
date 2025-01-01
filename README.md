@@ -47,18 +47,14 @@
 </div>
 
 
-###  👨‍💻  Programming languages
-<!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMS8crvN1a1SPjTqc8N26FA?style=social) -->
-<p align='left'>
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="50" width="50" /> 
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> 
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" height="50" width="50" /> 
-<!-- <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="bablubambal" height="50" width="50" />  -->
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-</p>
+## 🔹 Tech Stack
+
+| **Languages** | **Frontend** | **Backend** | **Database** | **Tools** |
+|---------------------------|--------------|-------------|--------------|-----------|
+| <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java" alt="languages-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=django,docker" alt="backend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="databases-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify,ps" alt="tools-icons" style="width: 100%;"/> |
+
+
+
 <h3>👩‍💻 My Competitive Programming Profiles</h3>
 
 <!-- https://leetcard.jacoblin.cool/ --> 
