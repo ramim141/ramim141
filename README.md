@@ -54,63 +54,8 @@
 | <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java" alt="languages-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="frontend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=django" alt="backend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="databases-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel" alt="tools-icons" style="width: 100%;"/> |
 
 
-<h3>👩‍💻 My Competitive Programming Profiles</h3>
 
-
-
-<!-- Profiles Table -->
-<div style="margin-top: 20px;">
-    <table style="width: 100%; text-align: left; border-collapse: collapse; margin-top: 20px;">
-	    <div>
-        <!-- Codeforces Stats -->
-        <img src="https://raw.githubusercontent.com/ramim141/cf-stats/main/output/light_card.svg#gh-dark-mode-only" 
-             alt="Codeforces Stats (Dark Mode)" />
-        <img src="https://raw.githubusercontent.com/ramim141/cf-stats/main/output/default_card.svg#gh-light-mode-only" 
-             alt="Codeforces Stats (Light Mode)" />
-    </div>
-        <thead>
-            <tr style="background-color: #222; color: white;">
-                <th style="padding: 10px;">Platform</th>
-                <th style="padding: 10px;">Profile Link</th>
-                <th style="padding: 10px;">Image</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td style="padding: 10px;">Codeforces</td>
-                <td style="padding: 10px;"><a href="https://codeforces.com/profile/YourUsername" target="_blank" style="color: #4a90e2;">Profile</a></td>
-                <td style="padding: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Codeforces_logo.png" alt="Codeforces" style="width: 40px; height: auto;"></td>
-            </tr>
-            <tr>
-                <td style="padding: 10px;">LeetCode</td>
-                <td style="padding: 10px;"><a href="https://leetcode.com/YourUsername" target="_blank" style="color: #4a90e2;">Profile</a></td>
-                <td style="padding: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" style="width: 40px; height: auto;"></td>
-            </tr>
-            <tr>
-                <td style="padding: 10px;">AtCoder</td>
-                <td style="padding: 10px;"><a href="https://atcoder.jp/users/YourUsername" target="_blank" style="color: #4a90e2;">Profile</a></td>
-                <td style="padding: 10px;"><img src="https://img.atcoder.jp/assets/icon/favicon.png" alt="AtCoder" style="width: 40px; height: auto;"></td>
-            </tr>
-            <tr>
-                <td style="padding: 10px;">CodeChef</td>
-                <td style="padding: 10px;"><a href="https://www.codechef.com/users/YourUsername" target="_blank" style="color: #4a90e2;">Profile</a></td>
-                <td style="padding: 10px;"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/CodeChef_Logo.png/440px-CodeChef_Logo.png" alt="CodeChef" style="width: 40px; height: auto;"></td>
-            </tr>
-            <tr>
-                <td style="padding: 10px;">HackerRank</td>
-                <td style="padding: 10px;"><a href="https://www.hackerrank.com/YourUsername" target="_blank" style="color: #4a90e2;">Profile</a></td>
-                <td style="padding: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HackerRank_logo.png" alt="HackerRank" style="width: 40px; height: auto;"></td>
-            </tr>
-            <tr>
-                <td style="padding: 10px;">Vjudge</td>
-                <td style="padding: 10px;"><a href="https://vjudge.net/user/YourUsername" target="_blank" style="color: #4a90e2;">Profile</a></td>
-                <td style="padding: 10px;"><img src="https://vjudge.net/favicon.ico" alt="Vjudge" style="width: 40px; height: auto;"></td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
+          
 
 
 
